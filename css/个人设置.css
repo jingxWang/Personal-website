@@ -1,0 +1,46 @@
+.name{color: darksalmon;
+margin-left: 10px;}
+.playlist{color: #b8ad9f;
+ 
+margin-right: 5px;
+margin-top: 5px;}
+.player{position:absolute;top: 480px;left: 500px;}
+a {
+    color: #000;
+    text-decoration: none;
+}
+a:hover {
+    color: #fff;/*鼠标移动到歌名上的颜色*/
+    text-decoration: underline;
+}
+li:hover {
+    color: #fff;/*鼠标移动到歌名上的颜色*/
+    text-decoration: underline;
+}
+	.down{
+		margin: auto;
+		margin-top: 10px;
+		background-color: #9cc6c9;
+		width:1000px;
+		height: 500px;
+	}
+	.all{width: 1200px;
+	height: 1000px;
+	background-color: #aab1ae;}
+	
+	.jieshao{color: #000000;
+	font-size: 15px;
+	position: absolute;top: 40px;left: 380px;}
+	span{font-size: 15px;
+	color: #0088BB;}
+	/* 折叠菜单 */
+	 .zhedie1{list-style:none;padding:0;margin:0}
+	.zhedie{width:150px;border:1px solid #515E7B;margin:10px;}
+	.zhedie li{background:#515E7B;border-bottom:1px solid #fff;}
+	.zhedie li a{text-decoration:none;color:#fff;font-size:16px;height:40px;line-height:40px;padding-left:10px;}
+	.zhedie li a:hover{text-decoration:underline;}
+	.wrap {width:150px;display:none;}
+	.wrap li{background: #fff;margin: 0;}
+	.wrap li a{color:#3B475F;font-size:12px;}
+	.zhedie{font-size: 15px;}
+	
